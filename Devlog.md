@@ -1,6 +1,7 @@
 REQUIREMENTS
   - 
 
+BOM: https://docs.google.com/spreadsheets/d/1BoM7iUl6QUpEB06v-WNWhYhMciubwFNZ1HohTmLiy30/edit?usp=sharing
 
 2/13/25 - 2 hr
 Started Project, began researching basics on 3D printers, watched Youtube videos and builds
