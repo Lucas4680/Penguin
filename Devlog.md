@@ -22,4 +22,7 @@ Continued working on toolhead, began thinking about frame and movement system
 https://cdn.hackclubber.dev/slackcdn/6684845de0eb26d4113f0da41a8cba38.png
 ![image](https://github.com/user-attachments/assets/01c439c8-47d2-4a28-a76d-a75fc61e13b4)
 
+2/18/25 - 1hr 30m
+Researched and worked on frame design. Spent wayyy to long creating a linear rail model.
+![image](https://github.com/user-attachments/assets/51415975-1f88-4109-a288-6bb900b8a315)
 
