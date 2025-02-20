@@ -26,3 +26,6 @@ https://cdn.hackclubber.dev/slackcdn/6684845de0eb26d4113f0da41a8cba38.png
 Researched and worked on frame design. Spent wayyy to long creating a linear rail model.
 ![image](https://github.com/user-attachments/assets/51415975-1f88-4109-a288-6bb900b8a315)
 
+2/19/25 - 30m
+Attached toolhead to rail, did some more research
+![image](https://github.com/user-attachments/assets/dd9d3322-2139-4337-ae67-9933c461a7ff)
