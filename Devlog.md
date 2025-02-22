@@ -29,3 +29,7 @@ Researched and worked on frame design. Spent wayyy to long creating a linear rai
 2/19/25 - 30m
 Attached toolhead to rail, did some more research
 ![image](https://github.com/user-attachments/assets/dd9d3322-2139-4337-ae67-9933c461a7ff)
+
+2/21/25 - 1hr
+Finished toolhead
+![image](https://github.com/user-attachments/assets/dcb69451-0936-447d-97f5-feb8db14a2be)
