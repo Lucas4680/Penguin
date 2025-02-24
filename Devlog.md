@@ -33,3 +33,7 @@ Attached toolhead to rail, did some more research
 2/21/25 - 1hr
 Finished toolhead
 ![image](https://github.com/user-attachments/assets/dcb69451-0936-447d-97f5-feb8db14a2be)
+
+2/23/25 - 2hr 30m
+Struggled to download and use autodesk cdf. When I finally began running simulations, they were all completely goofed. Notably:
+![image](https://github.com/user-attachments/assets/d89c51e9-5a76-48d7-827b-083919ab9782)
