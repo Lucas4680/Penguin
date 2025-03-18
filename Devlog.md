@@ -1,6 +1,3 @@
-REQUIREMENTS
-  - 
-
 Total hours: 34
 
 BOM: https://docs.google.com/spreadsheets/d/1BoM7iUl6QUpEB06v-WNWhYhMciubwFNZ1HohTmLiy30/edit?usp=sharing
