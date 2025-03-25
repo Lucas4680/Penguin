@@ -75,3 +75,8 @@ Here's the full printer rendered  (ooh). ![image](https://github.com/user-attach
 
 3/18/25 - 2hr (36 total)
 Spent some time looking over the the BOM again. After trying to find cheaper alternatives for every part, I got the total down to around 330 total before tax.
+
+3/19-3/24 - 7hr 
+Time was scattered throughout this period. By the end I had basically finished redesigning the printer.
+![image](https://github.com/user-attachments/assets/c2872e09-8024-46fb-b25d-9a12bff4fc81)
+![image](https://github.com/user-attachments/assets/cf77324a-4470-436f-8715-459f7eecac59)
