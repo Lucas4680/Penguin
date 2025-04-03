@@ -1,4 +1,4 @@
-Total hours: 34
+Total hours: 47
 
 BOM: https://docs.google.com/spreadsheets/d/1BoM7iUl6QUpEB06v-WNWhYhMciubwFNZ1HohTmLiy30/edit?usp=sharing
 
